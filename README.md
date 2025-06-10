@@ -1,4 +1,4 @@
 # 👋 Hi
 - [📄 CV](resume/)
 - [🚴 Interesting experiences](experiences/)
-- [📅 Daily rocordings](daily-motes/)
+- [📅 Daily rocordings](daily-notes/)
