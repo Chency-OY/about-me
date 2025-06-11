@@ -6,7 +6,8 @@
 - GitHub：github.com/Chency-OY
 
 ## Educational Background
-2024.09 - 202x.06 | Suzhou University | Bio-pharmaceuticals & Advanced Therapeutic Technologies | Undergraduate student
+- 2024.09 - 202x.06 |           Suzhou University          |        Bio-pharmaceuticals        | Undergraduate student
+- 2024.09 - 202x.06 | Royal College of Surgeons in Ireland | Advanced Therapeutic Technologies | Undergraduate student
 
 ## Work Experience
 202x.0x - 202x.0x | xx | xx
