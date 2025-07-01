@@ -1,4 +1,1 @@
-# 👋 Hi
-- [📄 Resume](resume/)
-- [🚴 Interesting experiences](experiences/)
-- [📅 Diary](daily-notes/)
+## Every action you take is a vote for the type of person you wish to become.
